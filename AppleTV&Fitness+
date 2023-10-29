@@ -11,3 +11,4 @@ HOST-SUFFIX,tv.apple.com,AppleTV
 HOST,hls-svod.itunes.apple.com,FitnessPlus
 USER-AGENT,AppleTV*,AppleTV
 USER-AGENT,com.apple.tv*,AppleTV
+HOST,amp-api.fitness.apple.com,FitnessPlus
